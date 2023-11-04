@@ -1,0 +1,17 @@
+{
+  "name": "@remux/lib",
+  "version": "0.2.1",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "homepage": "https://github.com/remuxjs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/remuxjs/lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hzy",
+  "license": "AGPL-3.0-or-later"
+}
